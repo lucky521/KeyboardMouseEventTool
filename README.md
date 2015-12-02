@@ -16,5 +16,6 @@ Tool to listen Windows keyboard&amp;mouse events
 
 ###Todo
 
+- Get Keyboard&Mouse device info.
 - Format log file.
 - GUI version.

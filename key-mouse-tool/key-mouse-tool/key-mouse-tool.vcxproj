@@ -79,9 +79,11 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="deviceInfo.h" />
     <ClInclude Include="hook.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="deviceInfo.cpp" />
     <ClCompile Include="hook.cpp" />
     <ClCompile Include="key-mouse-tool.cpp" />
   </ItemGroup>

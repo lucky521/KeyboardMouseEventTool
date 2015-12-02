@@ -2,9 +2,13 @@
 //
 
 #include "hook.h"
-
+#include "deviceInfo.h"
 int main()
 {
+	deviceInfo device;
+	device.showInfo();
+
+	/*
 	sethook();
     MSG msg;
     while (GetMessage(&msg, NULL, 0, 0))
@@ -12,6 +16,7 @@ int main()
 
     }
 	unhook();
+	*/
 	return 0;
 }
 

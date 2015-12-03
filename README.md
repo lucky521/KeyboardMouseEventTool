@@ -6,8 +6,8 @@ Tool to listen Windows keyboard&amp;mouse events
 
 
 
-### Version 1: Console version
-### Version 2(planned): GUI version
+### Version 1: Console version (Current Branch, VS 2012)
+### Version 2: GUI version
 
 ## Features:
 ###Done

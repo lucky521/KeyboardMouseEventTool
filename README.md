@@ -7,7 +7,7 @@ Tool to listen Windows keyboard&amp;mouse events
 
 
 ### Version 1: Console version
-### Version 2: GUI version
+### Version 2: GUI version  (Current Branch, Qt 5.5.1)
 
 ## Features:
 ###Done

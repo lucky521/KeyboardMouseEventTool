@@ -1,0 +1,10 @@
+
+Thu, 14 Jan 2016 17:02:33
+VK_LSHIFT	 state: 
+VK_RSHIFT	 state: 
+VK_LCONTROL	 state: 
+VK_RCONTROL	 state: 
+VK_LMENU	 state: toggled
+VK_RMENU	 state: 
+VK_LWIN	 state: toggled
+VK_RWIN	 state: 

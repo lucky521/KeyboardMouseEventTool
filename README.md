@@ -28,3 +28,7 @@ Get state of modifier keys
 - Get Keyboard&Mouse device info.
 
 
+## Note
+- Windows消息的传递是有顺序的，hook钩子队列（hook chain）按顺序处理事件，后添加的hook会排在前面，先处理事件。
+- 如果一个hook回调中不调用将消息传递下去，该消息就到此为止不再被其他钩子收到了。
+
